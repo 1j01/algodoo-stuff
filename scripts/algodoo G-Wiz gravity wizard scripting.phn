@@ -1,0 +1,34 @@
+
+onLaserHit = (e)=>{
+	e.geom.density = sim.airDensity;
+	e.geom.colorhsva = [60.0, 1.0, 1.0, 0.15];
+}
+
+onLaserHit = (e)=>{
+	e.geom._oldDensity = e.geom.density;
+	e.geom._oldColorHSVA = e.geom.colorhsva;
+	e.geom._oldPostStep = e.geom.postStep;
+	startTime = sim.time;
+	e.geom.density = sim.airDensity;
+	e.geom.colorhsva = [60.0, 1.0, 1.0, 0.15];
+	e.geom.postStep = (otherE) => {
+		(sim.time - startTime > 0.5) ? {
+			e.geom.density = e.geom._oldDensity;
+			e.geom.colorhsva = e.geom._oldColorHSVA;
+			e.geom.postStep = e.geom._oldPostStep;
+		} : {}
+	};
+}
+
+onLaserHit = (e) => {
+    oldPostStep = e.other.postStep;
+    e.other.hasGravityEffect ? {} : {
+        e.other.hasGravityEffect := true;
+        e.other.colorhsva = [60.0, 1.0, 1.0, 0.15];
+        e.other.postStep = (otherE) => {
+            oldPostStep();
+            otherE.this.vel = otherE.this.vel + [0, sim.gravityforce] / sim.frequency;
+            //+[math.sin(* Angle here), -math.cos(* Angle here)] * sim.gravityforce / sim.frequency
+        };
+    };
+}

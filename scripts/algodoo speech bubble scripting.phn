@@ -1,0 +1,40 @@
+
+
+(e) => {
+    arrow = e.this;
+    arrowDist = 0.8;
+    arrowAngleOffset = 2; // radians, depends on the polygon's orientation
+    head = scene.entitybyid(Scene.my.laserBoxerHeadID);
+    bubble = scene.entitybyid(Scene.my.speechBubbleID);
+    arrow.angle = arrowAngleOffset + math.atan2(
+        head.pos(1) - arrow.pos(1),
+        head.pos(0) - arrow.pos(0)
+    );
+    // dist = (bubble.pos - head.pos).length;
+    dist = math.sqrt(
+        math.pow(bubble.pos(0) - head.pos(0), 2),
+        math.pow(bubble.pos(1) - head.pos(1), 2)
+    );
+    // arrow.pos = bubble.pos + (head.pos - bubble.pos) / dist * arrowDist;
+    arrow.pos = [
+        bubble.pos(0) + (head.pos(0) - bubble.pos(0)) / dist * arrowDist,
+        bubble.pos(1) + (head.pos(1) - bubble.pos(1)) / dist * arrowDist
+    ];
+}
+
+
+
+(e)=>{
+    bubble = e.this;
+    bubbleDist = 1.5;
+    head = scene.entitybyid(Scene.my.laserBoxerHeadID);
+    bubble.angle = 0;
+    bubble.angvel = 0;
+    dist = (bubble.pos - head.pos).length();
+    oldPos = bubble.pos;
+    bubble.pos = [head.pos(0) + 2, head.pos(1) + 1];
+    bubble.vel = bubble.pos - oldPos;
+    bubble.pos = oldPos;
+    _ranOnce || {Scene.my.speechBubbleID := bubble.entityID};
+    _ranOnce := true;
+}
