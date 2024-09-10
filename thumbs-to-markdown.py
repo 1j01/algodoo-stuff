@@ -1,6 +1,19 @@
 import os
 import urllib.parse
 from collections import namedtuple
+import re
+
+def tryint(s):
+	try:
+		return int(s)
+	except:
+		return s
+
+def alphanum_key(s):
+	""" Turn a string into a list of string and number chunks.
+		"z23a" -> ["z", 23, "a"]
+	"""
+	return [ tryint(c) for c in re.split('([0-9]+)', s) ]
 
 SCENES_DIR = 'scenes'
 THUMBS_DIR = 'scenes/.algodoo_thumbs'
@@ -29,10 +42,8 @@ def path_to_relative_url(path: str) -> str:
 def generate_markdown(scenes):
 	markdown = ''
 
-	# TODO: sort so it's consistent across operating systems / file systems
-	# sort by name
-	# TODO: sort numerically for version numbers in scene names
-	# scenes.sort(key=lambda scene: scene.name)
+	# sort by name, numerically where version numbers are present, and otherwise alphabetically
+	scenes.sort(key=lambda scene: alphanum_key(scene.name))
 
 	# sort by whether there is a thumbnail
 	scenes.sort(key=lambda scene: scene.thumb_path is None)
