@@ -48,19 +48,32 @@ def generate_markdown(scenes):
 	# sort by whether there is a thumbnail
 	scenes.sort(key=lambda scene: scene.thumb_path is None)
 
+	first_without_thumb = True
 	for scene_name, scene_path, thumb_path in scenes:
 		scene_url_path = path_to_relative_url(scene_path)
 		if thumb_path:
 			thumb_url_path = path_to_relative_url(thumb_path)
 			markdown += f'[![{scene_name}]({thumb_url_path})]({scene_url_path})\n'
 		else:
+			if first_without_thumb:
+				markdown += "\nThese files don't currently have thumbnails:\n\n"
+				first_without_thumb = False
 			markdown += f'- [{scene_name}]({scene_url_path})\n'
 	return markdown
 
-def main():
+def update_readme():
 	scenes = find_scenes()
-	markdown = generate_markdown(scenes)
-	print(markdown)
+	scenes_markdown = generate_markdown(scenes)
+	START = '<!-- START SCENES -->'
+	END = '<!-- END SCENES -->'
+	with open('README.md', 'r', encoding='utf8') as f:
+		readme = f.read()
+	start_index = readme.index(START) + len(START)
+	end_index = readme.index(END)
+	new_readme = readme[:start_index] + '\n\n' + scenes_markdown + '\n' + readme[end_index:]
+	with open('README.md', 'w', encoding='utf8') as f:
+		f.write(new_readme)
+	print('Updated README.md')
 
 if __name__ == '__main__':
-	main()
+	update_readme()

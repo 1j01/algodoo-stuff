@@ -6,6 +6,8 @@ This repository contains mechanism prototypes and other experiments made with Al
 
 This listing was generated with `python thumbs-to-markdown.py`
 
+<!-- START SCENES -->
+
 [![Alphabet Packing (vAqua)](scenes/.algodoo_thumbs/Alphabet%20Packing%20%28vAqua%29.phz.png)](scenes/Alphabet%20Packing%20%28vAqua%29.phz)
 [![Chaotic catching strings v1](scenes/.algodoo_thumbs/Chaotic%20catching%20strings%20v1.phz.png)](scenes/Chaotic%20catching%20strings%20v1.phz)
 [![Crab Collapse](scenes/.algodoo_thumbs/Crab%20Collapse.phz.png)](scenes/Crab%20Collapse.phz)
@@ -70,7 +72,7 @@ This listing was generated with `python thumbs-to-markdown.py`
 [![Ragdolls v27](scenes/.algodoo_thumbs/Ragdolls%20v27.phz.png)](scenes/Ragdolls/Ragdolls%20v27.phz)
 [![Ragdolls v27 world tree-splosion](scenes/.algodoo_thumbs/Ragdolls%20v27%20world%20tree-splosion.phz.png)](scenes/Ragdolls/Ragdolls%20v27%20world%20tree-splosion.phz)
 [![Ragdolls v28](scenes/.algodoo_thumbs/Ragdolls%20v28.phz.png)](scenes/Ragdolls/Ragdolls%20v28.phz)
-[![Ragdolls v28 scare crow in tree](scenes/.algodoo_thumbs/Ragdolls%20v28%20scare%20crow%20in%20tree.phz.png)](scenes/Ragdolls/Ragdolls%20v28%20scare%20crow%20in%20tree.phz)    
+[![Ragdolls v28 scare crow in tree](scenes/.algodoo_thumbs/Ragdolls%20v28%20scare%20crow%20in%20tree.phz.png)](scenes/Ragdolls/Ragdolls%20v28%20scare%20crow%20in%20tree.phz)
 [![Ragdolls v29](scenes/.algodoo_thumbs/Ragdolls%20v29.phz.png)](scenes/Ragdolls/Ragdolls%20v29.phz)
 [![Road Simulator v1](scenes/.algodoo_thumbs/Road%20Simulator%20v1.phz.png)](scenes/Road%20Simulator%20v1.phz)
 [![Road Simulator v1.2](scenes/.algodoo_thumbs/Road%20Simulator%20v1.2.phz.png)](scenes/Road%20Simulator%20v1.2.phz)
@@ -79,8 +81,8 @@ This listing was generated with `python thumbs-to-markdown.py`
 [![Rubber band gun](scenes/.algodoo_thumbs/Rubber%20band%20gun.phz.png)](scenes/Rubber%20band%20gun.phz)
 [![Rubber band gun proper mechanism](scenes/.algodoo_thumbs/Rubber%20band%20gun%20proper%20mechanism.phz.png)](scenes/Rubber%20band%20gun%20proper%20mechanism.phz)
 [![Rubber band gun proper mechanism WIP](scenes/.algodoo_thumbs/Rubber%20band%20gun%20proper%20mechanism%20WIP.phz.png)](scenes/Rubber%20band%20gun%20proper%20mechanism%20WIP.phz)
-[![Rubber band gun proper mechanism r2](scenes/.algodoo_thumbs/Rubber%20band%20gun%20proper%20mechanism%20r2.phz.png)](scenes/Rubber%20band%20gun%20proper%20mechanism%20r2.phz) 
-[![Rubber band gun proper mechanism r3](scenes/.algodoo_thumbs/Rubber%20band%20gun%20proper%20mechanism%20r3.phz.png)](scenes/Rubber%20band%20gun%20proper%20mechanism%20r3.phz) 
+[![Rubber band gun proper mechanism r2](scenes/.algodoo_thumbs/Rubber%20band%20gun%20proper%20mechanism%20r2.phz.png)](scenes/Rubber%20band%20gun%20proper%20mechanism%20r2.phz)
+[![Rubber band gun proper mechanism r3](scenes/.algodoo_thumbs/Rubber%20band%20gun%20proper%20mechanism%20r3.phz.png)](scenes/Rubber%20band%20gun%20proper%20mechanism%20r3.phz)
 [![Scissor Linkage Rectangle](scenes/.algodoo_thumbs/Scissor%20Linkage%20Rectangle.phz.png)](scenes/Scissor%20Linkage%20Rectangle.phz)
 [![Shitty but technically functioning elevator](scenes/.algodoo_thumbs/Shitty%20but%20technically%20functioning%20elevator.phz.png)](scenes/Shitty%20but%20technically%20functioning%20elevator.phz)
 [![Shitty elevators](scenes/.algodoo_thumbs/Shitty%20elevators.phz.png)](scenes/Shitty%20elevators.phz)
@@ -147,10 +149,10 @@ These files don't currently have thumbnails:
 - [Springy-tipped latch button bank WIP 4 maybe nothing new](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/Springy-tipped%20latch%20button%20bank%20WIP%204%20maybe%20nothing%20new.phz)
 - [Three Mechanisms For Colinear Reverse Reciprocal Motion Transmission](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/Three%20Mechanisms%20For%20Colinear%20Reverse%20Reciprocal%20Motion%20Transmission.phz)
 - [Threeway ( ͡° ͜ʖ ͡°) Linear Gears](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/Threeway%20%28%20%CD%A1%C2%B0%20%CD%9C%CA%96%20%CD%A1%C2%B0%29%20Linear%20Gears.phz)
-- [Triangle Latch and Horsehead Unlatch Button Bank](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/Triangle%20Latch%20and%20Horsehead%20Unlatch%20Button%20Bank.phz)   
+- [Triangle Latch and Horsehead Unlatch Button Bank](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/Triangle%20Latch%20and%20Horsehead%20Unlatch%20Button%20Bank.phz)
 - [Two Scissor Mechanisms For Colinear Reverse Reciprocal Motion Transmission](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/Two%20Scissor%20Mechanisms%20For%20Colinear%20Reverse%20Reciprocal%20Motion%20Transmission.phz)
 - [Two Scissor Mechanisms For Colinear Reverse Reciprocal Motion Transmission 2](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/Two%20Scissor%20Mechanisms%20For%20Colinear%20Reverse%20Reciprocal%20Motion%20Transmission%202.phz)
-- [WIP Bank Switches with sturdier sliding joints](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/WIP%20Bank%20Switches%20with%20sturdier%20sliding%20joints.phz)       
+- [WIP Bank Switches with sturdier sliding joints](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/WIP%20Bank%20Switches%20with%20sturdier%20sliding%20joints.phz)
 - [WIP Bank Switches with sturdier sliding joints and horizontal bar movement](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/WIP%20Bank%20Switches%20with%20sturdier%20sliding%20joints%20and%20horizontal%20bar%20movement.phz)
 - [WIP Bank Switches with sturdier sliding joints and horizontal bar movement 2](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/WIP%20Bank%20Switches%20with%20sturdier%20sliding%20joints%20and%20horizontal%20bar%20movement%202.phz)
 - [WIP See-Saw Button Bank](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/WIP%20See-Saw%20Button%20Bank.phz)
@@ -183,3 +185,4 @@ These files don't currently have thumbnails:
 - [start of dynamic decal button thing 9.3](scenes/Recovered%20From%20Harddrive%20Backup/start%20of%20dynamic%20decal%20button%20thing%209.3.phz)
 - [start of dynamic decal button thing 9.4](scenes/Recovered%20From%20Harddrive%20Backup/start%20of%20dynamic%20decal%20button%20thing%209.4.phz)
 
+<!-- END SCENES -->
