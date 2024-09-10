@@ -100,6 +100,7 @@ This listing was generated with `python thumbs-to-markdown.py`
 [![Ragdolls v20 - WIP G-Wiz, who is a classic witch apparently](scenes/.algodoo_thumbs/Ragdolls%20v20%20-%20WIP%20G-Wiz%2C%20who%20is%20a%20classic%20witch%20apparently.phz.png)](scenes/Ragdolls/Ragdolls%20v20%20-%20WIP%20G-Wiz%2C%20who%20is%20a%20classic%20witch%20apparently.phz)
 [![Ragdolls v14 - superhero Laser Boxer even more unstable now](scenes/.algodoo_thumbs/Ragdolls%20v14%20-%20superhero%20Laser%20Boxer%20even%20more%20unstable%20now.phz.png)](scenes/Ragdolls/Ragdolls%20v14%20-%20superhero%20Laser%20Boxer%20even%20more%20unstable%20now.phz)
 [![Ragdolls v18 - destroyed by changing algodoo's Skin](scenes/.algodoo_thumbs/Ragdolls%20v18%20-%20destroyed%20by%20changing%20algodoo%27s%20Skin.phz.png)](scenes/Ragdolls/Ragdolls%20v18%20-%20destroyed%20by%20changing%20algodoo%27s%20Skin.phz)
+[![Equal-Angle Kite Scissor Linkage](scenes/.algodoo_thumbs/Equal-Angle%20Kite%20Scissor%20Linkage.phz.png)](scenes/Equal-Angle%20Kite%20Scissor%20Linkage.phz)
 
 These files don't currently have thumbnails:
 
