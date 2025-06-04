@@ -9,6 +9,7 @@ This listing was generated with `python thumbs-to-markdown.py`
 <!-- START SCENES -->
 
 [![Alphabet Packing (vAqua)](scenes/.algodoo_thumbs/Alphabet%20Packing%20%28vAqua%29.phz.png)](scenes/Alphabet%20Packing%20%28vAqua%29.phz)
+[![BAMUM LETTER PHASE-B PARUM v2](scenes/.algodoo_thumbs/BAMUM%20LETTER%20PHASE-B%20PARUM%20v2.phz.png)](scenes/BAMUM%20LETTER%20PHASE-B%20PARUM%20v2.phz)
 [![Chaotic catching strings v1](scenes/.algodoo_thumbs/Chaotic%20catching%20strings%20v1.phz.png)](scenes/Chaotic%20catching%20strings%20v1.phz)
 [![Crab Collapse](scenes/.algodoo_thumbs/Crab%20Collapse.phz.png)](scenes/Crab%20Collapse.phz)
 [![Ellipse mechanism almost working](scenes/.algodoo_thumbs/Ellipse%20mechanism%20almost%20working.phz.png)](scenes/Ellipse%20mechanism%20almost%20working.phz)
@@ -27,6 +28,12 @@ This listing was generated with `python thumbs-to-markdown.py`
 [![Highway Horizon Simulator v1](scenes/.algodoo_thumbs/Highway%20Horizon%20Simulator%20v1.phz.png)](scenes/Highway%20Horizon%20Simulator%20v1.phz)
 [![Highway Horizon Simulator v1.2](scenes/.algodoo_thumbs/Highway%20Horizon%20Simulator%20v1.2.phz.png)](scenes/Highway%20Horizon%20Simulator%20v1.2.phz)
 [![Highway Horizon Simulator v2](scenes/.algodoo_thumbs/Highway%20Horizon%20Simulator%20v2.phz.png)](scenes/Highway%20Horizon%20Simulator%20v2.phz)
+[![Hoplite Mech v1](scenes/.algodoo_thumbs/Hoplite%20Mech%20v1.phz.png)](scenes/Hoplite%20Mech%20v1.phz)
+[![Hoplite Mech v2](scenes/.algodoo_thumbs/Hoplite%20Mech%20v2.phz.png)](scenes/Hoplite%20Mech%20v2.phz)
+[![Hoplite Mech v3](scenes/.algodoo_thumbs/Hoplite%20Mech%20v3.phz.png)](scenes/Hoplite%20Mech%20v3.phz)
+[![Hoplite Mech v4](scenes/.algodoo_thumbs/Hoplite%20Mech%20v4.phz.png)](scenes/Hoplite%20Mech%20v4.phz)
+[![Hoplite Mech v5](scenes/.algodoo_thumbs/Hoplite%20Mech%20v5.phz.png)](scenes/Hoplite%20Mech%20v5.phz)
+[![Hoplite Mech v6](scenes/.algodoo_thumbs/Hoplite%20Mech%20v6.phz.png)](scenes/Hoplite%20Mech%20v6.phz)
 [![Junkbot Switch Mechanism 0.1](scenes/.algodoo_thumbs/Junkbot%20Switch%20Mechanism%200.1.phz.png)](scenes/Junkbot%20Switch%20Mechanism%200.1.phz)
 [![Junkbot Switch Mechanism 0.2](scenes/.algodoo_thumbs/Junkbot%20Switch%20Mechanism%200.2.phz.png)](scenes/Junkbot%20Switch%20Mechanism%200.2.phz)
 [![Junkbot Switch Mechanism 0.3](scenes/.algodoo_thumbs/Junkbot%20Switch%20Mechanism%200.3.phz.png)](scenes/Junkbot%20Switch%20Mechanism%200.3.phz)
@@ -95,7 +102,9 @@ This listing was generated with `python thumbs-to-markdown.py`
 [![Trapeze Acrobatics v5 fail](scenes/.algodoo_thumbs/Trapeze%20Acrobatics%20v5%20fail.phz.png)](scenes/Trapeze%20Acrobatics%20v5%20fail.phz)
 [![Trapeze Acrobatics v6 wip ratchet shit](scenes/.algodoo_thumbs/Trapeze%20Acrobatics%20v6%20wip%20ratchet%20shit.phz.png)](scenes/Trapeze%20Acrobatics%20v6%20wip%20ratchet%20shit.phz)
 [![Two Legs](scenes/.algodoo_thumbs/Two%20Legs.phz.png)](scenes/Two%20Legs.phz)
+[![Vane engine v-1.0 (fuck this)](scenes/.algodoo_thumbs/Vane%20engine%20v-1.0%20%28fuck%20this%29.phz.png)](scenes/Vane%20engine%20v-1.0%20%28fuck%20this%29.phz)
 [![WIP centrifugal force cord ratchet toy](scenes/.algodoo_thumbs/WIP%20centrifugal%20force%20cord%20ratchet%20toy.phz.png)](scenes/WIP%20centrifugal%20force%20cord%20ratchet%20toy.phz)
+[![Wash Cassette v0.1](scenes/.algodoo_thumbs/Wash%20Cassette%20v0.1.phz.png)](scenes/Wash%20Cassette%20v0.1.phz)
 [![_ONEXITSAVE_old](scenes/.algodoo_thumbs/_ONEXITSAVE_old.phz.png)](scenes/_ONEXITSAVE_old.phz)
 [![ball in circular slot with linear rail following ball's Y position](scenes/.algodoo_thumbs/ball%20in%20circular%20slot%20with%20linear%20rail%20following%20ball%27s%20Y%20position.phz.png)](scenes/ball%20in%20circular%20slot%20with%20linear%20rail%20following%20ball%27s%20Y%20position.phz)
 [![ball in oval slot with linear rail following ball's Y position](scenes/.algodoo_thumbs/ball%20in%20oval%20slot%20with%20linear%20rail%20following%20ball%27s%20Y%20position.phz.png)](scenes/ball%20in%20oval%20slot%20with%20linear%20rail%20following%20ball%27s%20Y%20position.phz)
@@ -103,6 +112,7 @@ This listing was generated with `python thumbs-to-markdown.py`
 [![oval cam follower marble latch ideation](scenes/.algodoo_thumbs/oval%20cam%20follower%20marble%20latch%20ideation.phz.png)](scenes/oval%20cam%20follower%20marble%20latch%20ideation.phz)
 [![oval cam follower marble latch ideation 2](scenes/.algodoo_thumbs/oval%20cam%20follower%20marble%20latch%20ideation%202.phz.png)](scenes/oval%20cam%20follower%20marble%20latch%20ideation%202.phz)
 [![pARCHEESI](scenes/.algodoo_thumbs/pARCHEESI.phz.png)](scenes/pARCHEESI.phz)
+[![𖡲](scenes/.algodoo_thumbs/%F0%96%A1%B2.phz.png)](scenes/%F0%96%A1%B2.phz)
 
 These files don't currently have thumbnails:
 
@@ -169,6 +179,7 @@ These files don't currently have thumbnails:
 - [Winding Rope on Reals](scenes/Recovered%20From%20Harddrive%20Backup/Winding%20Rope%20on%20Reals.phz)
 - [_ONEXITSAVE](scenes/_ONEXITSAVE.phz)
 - [_ONEXITSAVE](scenes/Recovered%20From%20Harddrive%20Backup/_ONEXITSAVE.phz)
+- [bad gear rack chain thing](scenes/bad%20gear%20rack%20chain%20thing.phz)
 - [cement truck sketch](scenes/Recovered%20From%20Harddrive%20Backup/cement%20truck%20sketch.phz)
 - [cement truck sketch with wheelz](scenes/Recovered%20From%20Harddrive%20Backup/cement%20truck%20sketch%20with%20wheelz.phz)
 - [latch button bank WIP 5 (simpler, too dense off center of the shaft)](scenes/Paint%20IRL%20%28and%20maybe%20other%20things%29/latch%20button%20bank%20WIP%205%20%28simpler%2C%20too%20dense%20off%20center%20of%20the%20shaft%29.phz)
